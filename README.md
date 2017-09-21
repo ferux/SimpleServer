@@ -8,7 +8,6 @@ git clone github.com/ferux/SimpleServer
 ```
 
 ## Usage
-
 Runs from command line and by default uses the following parameters:
 Listen address: **0.0.0.0:8080**
 Static Files loads from root directory, e.g. **"./"**
