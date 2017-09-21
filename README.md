@@ -23,10 +23,10 @@ If you would like to specify parameters use the following flags in command line:
 
 ## Example
 
-##For WIndows##
+**For WIndows**
 simpleServer.exe -l "192.168.10.11:80" -a "C:\www\static\" -d
 
-##For Linux##
+**For Linux**
 simpleServer.exe -l "192.168.10.11:80" -a "/home/usr/dev/www/static/" -d
 
 ## License
