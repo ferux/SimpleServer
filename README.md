@@ -4,7 +4,7 @@ An application written on Go for hosting static files.
 ## Install:
 
 ```bash
-go get github.com/ferux/SimpleServer
+git clone github.com/ferux/SimpleServer
 ```
 
 ## Usage
